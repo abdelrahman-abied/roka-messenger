@@ -17,4 +17,4 @@ chat application that used to communicate by text messages
 # Here's what it looks like:
 
 <img src="https://github.com/abdelrahman-abied/roka-messenger/blob/master/total.gif" width=300>
-<img src="https://github.com/abdelrahman-abied/roka-messenger/blob/master/chat.gif" width=350>
+<img src="https://github.com/abdelrahman-abied/roka-messenger/blob/master/chat.gif" width=300>
