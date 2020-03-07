@@ -15,6 +15,5 @@ chat application that used to communicate by text messages
 5. RecyclerView
 
 Here's what it looks like:
-<img src="https://github.com/abdelrahman-abied/roka-messenger/blob/master/total.gif" width=100>
-
-<img src="https://github.com/abdelrahman-abied/roka-messenger/blob/master/chat.gif" width=100>
+<img src="https://github.com/abdelrahman-abied/roka-messenger/blob/master/total.gif" width=300>
+<img src="https://github.com/abdelrahman-abied/roka-messenger/blob/master/chat.gif" width=300>
